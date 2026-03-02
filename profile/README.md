@@ -81,11 +81,11 @@ we're engineers building something that hasn't existed before. if you think in s
 <!-- DASHBOARD:START -->
 ## 📊 repository dashboard
 
-> _last updated: Mon, 02 Mar 2026 05:50:10 GMT_
+> _last updated: Mon, 02 Mar 2026 06:52:51 GMT_
 
 | repo | 🐛 issues | 🔀 prs | main CI | latest PR CI |
 |------|-----------|--------|---------|--------------|
-| [**agenticlaw**](https://github.com/agentiagency/agenticlaw) | 26 | 15 | 🟢 `3/3` | ⚪ `0/0` [#25](https://github.com/agentiagency/agenticlaw/pull/25) |
+| [**agenticlaw**](https://github.com/agentiagency/agenticlaw) | 28 | 15 | 🟢 `3/3` | ⚪ `0/0` [#25](https://github.com/agentiagency/agenticlaw/pull/25) |
 
 ---
 
@@ -100,7 +100,7 @@ xychart-beta
   title "agenticlaw — last 30d (created / closed / merged)"
   x-axis ["W1", "W2", "W3", "W4"]
   y-axis "count" 0 --> 20
-  bar [0, 0, 0, 34]
+  bar [0, 0, 0, 36]
   bar [0, 0, 0, 8]
   bar [0, 0, 0, 3]
 ```
