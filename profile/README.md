@@ -81,66 +81,17 @@ we're engineers building something that hasn't existed before. if you think in s
 <!-- DASHBOARD:START -->
 ## 📊 repository dashboard
 
-> _last updated: Mon, 02 Mar 2026 01:49:51 GMT_
+> _last updated: Mon, 02 Mar 2026 01:50:46 GMT_
 
 | repo | 🐛 issues | 🔀 prs | main CI | latest PR CI |
 |------|-----------|--------|---------|--------------|
-| [**agentimolt-v03**](https://github.com/agentiagency/agentimolt-v03) | 23 | 0 | ⚪ `—` | ⚪ `—` |
-| [**agentisync**](https://github.com/agentiagency/agentisync) | 5 | 0 | ⚪ `—` | ⚪ `—` |
-| [**agentisecure**](https://github.com/agentiagency/agentisecure) | 13 | 0 | ⚪ `—` | ⚪ `—` |
 | [**agenticlaw**](https://github.com/agentiagency/agenticlaw) | 14 | 15 | 🟡 `6/7` | ⚪ `0/0` [#37](https://github.com/agentiagency/agenticlaw/pull/37) |
-| [**agentiprotect**](https://github.com/agentiagency/agentiprotect) | 30 | 0 | ⚪ `—` | ⚪ `—` |
-| [**protectgateway**](https://github.com/agentiagency/protectgateway) | 0 | 0 | ⚪ `—` | ⚪ `—` |
-| [**synergi**](https://github.com/agentiagency/synergi) | 0 | 0 | ⚪ `—` | ⚪ `—` |
-| [**agentiv**](https://github.com/agentiagency/agentiv) | 0 | 0 | ⚪ `—` | ⚪ `—` |
 
 ---
 
 ## 📈 activity — last 30 days
 
 > bars: **issues created** · **issues closed** · **PRs merged** (by week)
-
-<details><summary><strong>agentimolt-v03</strong></summary>
-
-```mermaid
-xychart-beta
-  title "agentimolt-v03 — last 30d (created / closed / merged)"
-  x-axis ["W1", "W2", "W3", "W4"]
-  y-axis "count" 0 --> 20
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-```
-
-</details>
-
-<details><summary><strong>agentisync</strong></summary>
-
-```mermaid
-xychart-beta
-  title "agentisync — last 30d (created / closed / merged)"
-  x-axis ["W1", "W2", "W3", "W4"]
-  y-axis "count" 0 --> 20
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-```
-
-</details>
-
-<details><summary><strong>agentisecure</strong></summary>
-
-```mermaid
-xychart-beta
-  title "agentisecure — last 30d (created / closed / merged)"
-  x-axis ["W1", "W2", "W3", "W4"]
-  y-axis "count" 0 --> 20
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-```
-
-</details>
 
 <details><summary><strong>agenticlaw</strong></summary>
 
@@ -152,62 +103,6 @@ xychart-beta
   bar [0, 0, 0, 22]
   bar [0, 0, 0, 8]
   bar [0, 0, 0, 3]
-```
-
-</details>
-
-<details><summary><strong>agentiprotect</strong></summary>
-
-```mermaid
-xychart-beta
-  title "agentiprotect — last 30d (created / closed / merged)"
-  x-axis ["W1", "W2", "W3", "W4"]
-  y-axis "count" 0 --> 20
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-```
-
-</details>
-
-<details><summary><strong>protectgateway</strong></summary>
-
-```mermaid
-xychart-beta
-  title "protectgateway — last 30d (created / closed / merged)"
-  x-axis ["W1", "W2", "W3", "W4"]
-  y-axis "count" 0 --> 20
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-```
-
-</details>
-
-<details><summary><strong>synergi</strong></summary>
-
-```mermaid
-xychart-beta
-  title "synergi — last 30d (created / closed / merged)"
-  x-axis ["W1", "W2", "W3", "W4"]
-  y-axis "count" 0 --> 20
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-```
-
-</details>
-
-<details><summary><strong>agentiv</strong></summary>
-
-```mermaid
-xychart-beta
-  title "agentiv — last 30d (created / closed / merged)"
-  x-axis ["W1", "W2", "W3", "W4"]
-  y-axis "count" 0 --> 20
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
-  bar [0, 0, 0, 0]
 ```
 
 </details>
