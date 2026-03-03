@@ -81,11 +81,11 @@ we're engineers building something that hasn't existed before. if you think in s
 <!-- DASHBOARD:START -->
 ## 📊 repository dashboard
 
-> _last updated: Tue, 03 Mar 2026 11:29:29 GMT_
+> _last updated: Tue, 03 Mar 2026 12:48:34 GMT_
 
 | repo | 🐛 issues | 🔀 prs | main CI | latest PR CI |
 |------|-----------|--------|---------|--------------|
-| [**agenticlaw**](https://github.com/agentiagency/agenticlaw) | 22 | 11 | ⚪ `—` | 🟡 `5/6` [#75](https://github.com/agentiagency/agenticlaw/pull/75) |
+| [**agenticlaw**](https://github.com/agentiagency/agenticlaw) | 22 | 11 | 🟢 `10/10` | 🟡 `5/6` [#75](https://github.com/agentiagency/agenticlaw/pull/75) |
 
 ---
 
